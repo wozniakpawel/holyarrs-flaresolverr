@@ -1,7 +1,7 @@
 {
   "id": "flaresolverr",
   "name": "FlareSolverr",
-  "author": "HolyArrs",
+  "author": "wozniakpawel",
   "description": "Gets Sources past a site's bot check (Cloudflare, DDoS-Guard) with the FlareSolverr you run.",
   "long_description": "When a Source's site puts a bot check in front of its feed, HolyArrs hands that one page to this plugin, which asks your own FlareSolverr to open it in its browser. The page, its cookies and the browser's User-Agent come back to HolyArrs, which keeps them for that site until it checks again. The plugin sees each page it opens, key included, and sends it only to your FlareSolverr. HolyArrs runs no browser itself.",
   "how_it_works": [
@@ -13,7 +13,7 @@
   "category": "Sources",
   "licence": "AGPL-3.0",
   "repo": "https://github.com/wozniakpawel/holyarrs-flaresolverr",
-  "support_email": "support@holyarrs.com",
+  "support_email": "rax1994@gmail.com",
   "support_url": "https://github.com/wozniakpawel/holyarrs-flaresolverr/issues",
   "icon_file": "icon.svg",
   "settings": [
